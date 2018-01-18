@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Games List</string>
+    <string name="iv_game_art">Thumbnail of Game Art</string>
+    <string name="tv_game_rating_placeholder">Rating in Text</string>
+    <string name="tv_game_title_placeholder">Game Title</string>
+    <string name="tv_game_genres_placeholder">Game Genres</string>
+</resources>
